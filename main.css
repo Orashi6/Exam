@@ -1,0 +1,73 @@
+.purple{
+    color: purple;
+    background-color: rgb(185, 155, 214);
+    border: 3px red solid;
+    border-radius: 20px;
+    text-align: center;
+
+}
+span{
+    background-color: yellow;
+}
+.qizil{
+    color: red;
+}
+.yashil{
+    color: green;
+}
+.sariq{
+    background-color: yellow;
+    text-align: center;
+}
+.rasm{
+    text-align: center;
+}
+h2{
+    color: green;
+    font-size:100%;
+}
+textarea{
+    width: 1100px;
+}
+button{
+    background-color: rgb(117, 117, 234);
+    color: white;
+    font-size: large;
+    width: 14%;
+}
+tr{
+    border: 1px black solid;
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+td{
+    border: 1px solid black;
+    font-size: larger; 
+}
+th{border: 1px solid black;
+width:;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.blue{
+    background-color: rgb(38, 38, 128);
+    color: white;
+    
+}
+.red{
+    background-color: red;
+    color: white;
+    width: 200px;
+}
+.black{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    width: 1000px;
+    
+    
+}
